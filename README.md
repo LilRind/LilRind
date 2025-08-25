@@ -18,13 +18,7 @@
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) <br> ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) <br> ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white) | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <br> ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br> ![Vue](https://img.shields.io/badge/Vue-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white) |  
 
 
-### 📊 GitHub Stats  
-<!-- 语言使用统计（可选） -->  
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilRind&layout=compact&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)  
-
-<!-- 动态统计卡片（代码提交、星标等） -->  
-[![LilRind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LilRind&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)  
-
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) <br> ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) <br> ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white) | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <br> ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br> ![Vue](https://img.shields.io/badge/Vue-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ### 🛠 技术栈  
 #### AI 领域  
