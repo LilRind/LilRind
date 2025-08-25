@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm [LilRind]
+# 🚀 Welcome to My GitHub!
 
-# Hi 👋, I'm [你的昵称，比如这里假设和仓库名一致用 LilRind]
-### [你的 GitHub 用户名，比如 LilRind]
-#### 职业/身份描述（示例）
-Backend Engineer （可按实际改，比如 “Frontend Developer” 等 ）
-
-- 🌟 I'm currently exploring [你在研究的方向，如 “web3 application projects”] 
-- 📩 Ask me about [你擅长/可交流的领域，如 “frontend development and user experience design”]
+### Backend Engineer
+- 🌟 I'm currently exploring [AI application projects] 
+- 📩 Ask me about [backend development and software]
 - 📫 How to reach me: 
-  - Email: [你的邮箱，如 lilrind@example.com] 
-  - Bilibili: [你的 B 站账号，如 @LilRind] 
-  - Gitee: [你的 Gitee 账号，如 @LilRind] 
+  - Email: [lishimin666@gmail.com]
+
+
+
+### 🛠 Languages and Tools:
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Gitee](https://img.shields.io/badge/Gitee-%23FF5700.svg?style=for-the-badge&logo=gitee&logoColor=white)
+（这里用了 shields.io 的徽章样式展示常用语言和工具，可根据实际技术栈调整，也能自己找其他美观的徽章生成方式 ）
+
+
+
+
 
 <!--
 **LilRind/LilRind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
