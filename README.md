@@ -4,16 +4,6 @@
 ### Backend Engineer
 - 🌟 I'm currently exploring AI application projects
 - 📩 Ask me about backend development and software
-- 
-### 📊 GitHub Stats
-<div style="display: flex; justify-content: flex-end; align-items: flex-start; gap: 20px; margin: 20px 0;">
-  <div style="flex: 0 0 auto;">
-    [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilRind&layout=compact&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
-  <div style="flex: 0 0 auto; margin-left: auto;">
-    [![LilRind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LilRind&show_icons=true&layout=compact&bg_color=30,FF69B4,9370DB&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
-</div>
 
 ### 📊 GitHub Stats
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilRind&layout=compact&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)  [![LilRind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LilRind&show_icons=true&layout=compact&bg_color=30,FF69B4,9370DB&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)  
@@ -29,7 +19,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 ### To be continued
-
 
 <!--
 **LilRind/LilRind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
