@@ -1,5 +1,4 @@
-# Hi 👋, I'm LilRind
-# 🚀 Welcome to My GitHub!
+# 👋 Hi, I'm LilRind. 🚀 Welcome to My GitHub!
 
 ### Backend Engineer
 - 🌟 I'm currently exploring AI application projects
