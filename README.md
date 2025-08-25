@@ -9,9 +9,7 @@
 
 
 ### 📊 GitHub Stats
-| <h3>Most Used Languages</h3> | <h3>LilRind's GitHub Stats</h3> |  
-|-------------------------------|----------------------------------|  
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LilRind&layout=compact&hide=html,css&langs_count=2)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LilRind&show_icons=true&include_all_commits=true&count_private=true&card_width=220)](https://github.com/anuraghazra/github-readme-stats) |  
+| [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilRind&layout=compact&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)  | [![LilRind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LilRind&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 ### 🛠 技术栈
