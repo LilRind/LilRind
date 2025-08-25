@@ -8,11 +8,12 @@
   - Email: [lishimin666@gmail.com]
 
 ### 📊 GitHub Stats  
+<!-- 语言使用统计（可选） -->  
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilRind&layout=compact&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)  
+
 <!-- 动态统计卡片（代码提交、星标等） -->  
 [![LilRind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LilRind&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)  
 
-<!-- 语言使用统计（可选） -->  
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilRind&layout=compact&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### 🛠 技术栈  
 #### AI 领域  
