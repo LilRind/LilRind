@@ -11,6 +11,8 @@
 ### 📊 GitHub Stats
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilRind&layout=compact&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)  [![LilRind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LilRind&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)  
 
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilRind&layout=compact&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 🛠 技术栈
 | <h3>AI 领域</h3> | <h3>后端开发</h3> | <h3>前端开发</h3> |  
